@@ -1,6 +1,7 @@
 {
   "name": "cards",
   "private": true,
+  "homepage": "https://EgorVelikiy.github.io/cards",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
